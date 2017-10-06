@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="72" viewBox="0 0 50 72">
+  <title>
+    logo-color-bmw
+  </title>
+  <defs>
+    <linearGradient id="a" x1="-7.319%" x2="98.77%" y1="-5.391%" y2="97.129%">
+      <stop stop-color="#DFF4FF" offset="0%"/>
+      <stop stop-color="#D6EAF5" offset="9.84%"/>
+      <stop stop-color="#BFD0D9" offset="26.78%"/>
+      <stop stop-color="#98A5AC" offset="48.79%"/>
+      <stop stop-color="#646B6E" offset="74.69%"/>
+      <stop stop-color="#2B2B2B" offset="100%"/>
+    </linearGradient>
+    <radialGradient id="b" cx="-3.29%" cy=".85%" r="74.777%" fx="-3.29%" fy=".85%" gradientTransform="matrix(1 0 0 .99999 0 0)">
+      <stop stop-color="#FFFFFF" offset="0%"/>
+      <stop stop-color="#A8A8A8" offset="30.64%"/>
+      <stop stop-color="#4F4F4F" offset="64.61%"/>
+      <stop stop-color="#161616" offset="88.53%"/>
+      <stop stop-color="#000000" offset="100%"/>
+    </radialGradient>
+    <linearGradient id="c" x1="107.32%" x2="1.231%" y1="105.391%" y2="2.872%">
+      <stop stop-color="#DFF4FF" offset="0%"/>
+      <stop stop-color="#D6EAF5" offset="8.55%"/>
+      <stop stop-color="#BED0D9" offset="23.27%"/>
+      <stop stop-color="#96A4AC" offset="42.39%"/>
+      <stop stop-color="#5F686D" offset="65.16%"/>
+      <stop stop-color="#1A1D1E" offset="90.75%"/>
+      <stop stop-color="#000000" offset="100%"/>
+    </linearGradient>
+    <radialGradient id="d" cx="-390.027%" cy="-65.14%" r="1186.357%" fx="-390.027%" fy="-65.14%" gradientTransform="matrix(.87272 0 0 1 -.496 0)">
+      <stop stop-color="#FFFFFF" offset="0%"/>
+      <stop stop-color="#FDFDFD" offset="31.02%"/>
+      <stop stop-color="#F6F6F6" offset="45.05%"/>
+      <stop stop-color="#E9E9E9" offset="55.67%"/>
+      <stop stop-color="#D7D7D7" offset="64.56%"/>
+      <stop stop-color="#BFBFBF" offset="72.38%"/>
+      <stop stop-color="#A2A2A2" offset="79.44%"/>
+      <stop stop-color="#808080" offset="85.93%"/>
+      <stop stop-color="#575757" offset="91.99%"/>
+      <stop stop-color="#2B2B2B" offset="97.46%"/>
+      <stop stop-color="#141414" offset="100%"/>
+    </radialGradient>
+    <radialGradient id="e" cx="-485.27%" cy="-103.16%" r="965.794%" fx="-485.27%" fy="-103.16%" gradientTransform="matrix(1 0 0 .98453 0 -.016)">
+      <stop stop-color="#FFFFFF" offset="0%"/>
+      <stop stop-color="#FDFDFD" offset="31.02%"/>
+      <stop stop-color="#F6F6F6" offset="45.05%"/>
+      <stop stop-color="#E9E9E9" offset="55.67%"/>
+      <stop stop-color="#D7D7D7" offset="64.56%"/>
+      <stop stop-color="#BFBFBF" offset="72.38%"/>
+      <stop stop-color="#A2A2A2" offset="79.44%"/>
+      <stop stop-color="#808080" offset="85.93%"/>
+      <stop stop-color="#575757" offset="91.99%"/>
+      <stop stop-color="#2B2B2B" offset="97.46%"/>
+      <stop stop-color="#141414" offset="100%"/>
+    </radialGradient>
+    <radialGradient id="f" cx="-141.32%" cy="-113.479%" r="986.89%" fx="-141.32%" fy="-113.479%" gradientTransform="matrix(1 0 0 .99964 0 0)">
+      <stop stop-color="#FFFFFF" offset="0%"/>
+      <stop stop-color="#FDFDFD" offset="31.02%"/>
+      <stop stop-color="#F6F6F6" offset="45.05%"/>
+      <stop stop-color="#E9E9E9" offset="55.67%"/>
+      <stop stop-color="#D7D7D7" offset="64.56%"/>
+      <stop stop-color="#BFBFBF" offset="72.38%"/>
+      <stop stop-color="#A2A2A2" offset="79.44%"/>
+      <stop stop-color="#808080" offset="85.93%"/>
+      <stop stop-color="#575757" offset="91.99%"/>
+      <stop stop-color="#2B2B2B" offset="97.46%"/>
+      <stop stop-color="#141414" offset="100%"/>
+    </radialGradient>
+    <radialGradient id="g" cx="-3.29%" cy=".85%" r="74.777%" fx="-3.29%" fy=".85%" gradientTransform="matrix(1 0 0 .99999 0 0)">
+      <stop stop-color="#E6E6E6" offset="0%"/>
+      <stop stop-color="#D6D6D6" offset="10.45%"/>
+      <stop stop-color="#ADADAD" offset="30.74%"/>
+      <stop stop-color="#6C6C6C" offset="58.84%"/>
+      <stop stop-color="#121212" offset="93.35%"/>
+      <stop stop-color="#000000" offset="100%"/>
+    </radialGradient>
+    <radialGradient id="h" cx="16.19%" cy="9.75%" r="111.963%" fx="16.19%" fy="9.75%">
+      <stop stop-color="#FFFFFF" offset="0%"/>
+      <stop stop-color="#FDFDFD" offset="34.35%"/>
+      <stop stop-color="#F6F6F6" offset="48.14%"/>
+      <stop stop-color="#EAEAEA" offset="58.24%"/>
+      <stop stop-color="#D8D8D8" offset="66.54%"/>
+      <stop stop-color="#C2C2C2" offset="73.73%"/>
+      <stop stop-color="#A6A6A6" offset="80.16%"/>
+      <stop stop-color="#848484" offset="86.02%"/>
+      <stop stop-color="#5F5F5F" offset="91.26%"/>
+      <stop stop-color="#404040" offset="94.94%"/>
+      <stop stop-color="#404040" offset="95.66%"/>
+      <stop stop-color="#404040" offset="100%"/>
+      <stop stop-color="#000000" offset="100%"/>
+    </radialGradient>
+    <radialGradient id="i" cx="-33.16%" cy="-65.13%" r="395.967%" fx="-33.16%" fy="-65.13%" gradientTransform="rotate(.14 -.332 0)">
+      <stop stop-color="#FFFFFF" offset="16.85%"/>
+      <stop stop-color="#E0EFF7" offset="19.57%"/>
+      <stop stop-color="#B2D9EC" offset="24.06%"/>
+      <stop stop-color="#8BC5E2" offset="28.72%"/>
+      <stop stop-color="#6BB5DA" offset="33.5%"/>
+      <stop stop-color="#52A9D4" offset="38.44%"/>
+      <stop stop-color="#41A0CF" offset="43.59%"/>
+      <stop stop-color="#369BCD" offset="49.11%"/>
+      <stop stop-color="#3399CC" offset="55.62%"/>
+      <stop stop-color="#3396C8" offset="60.6%"/>
+      <stop stop-color="#328EBC" offset="65.53%"/>
+      <stop stop-color="#3180A8" offset="70.45%"/>
+      <stop stop-color="#2F6D8C" offset="75.36%"/>
+      <stop stop-color="#2D5468" offset="80.27%"/>
+      <stop stop-color="#2A373D" offset="85.12%"/>
+      <stop stop-color="#292929" offset="87.08%"/>
+    </radialGradient>
+    <radialGradient id="j" cx="-133.16%" cy="-165.13%" r="395.959%" fx="-133.16%" fy="-165.13%" gradientTransform="matrix(1 0 0 .99999 0 0)">
+      <stop stop-color="#FFFFFF" offset="16.85%"/>
+      <stop stop-color="#E0EFF7" offset="19.57%"/>
+      <stop stop-color="#B2D9EC" offset="24.06%"/>
+      <stop stop-color="#8BC5E2" offset="28.72%"/>
+      <stop stop-color="#6BB5DA" offset="33.5%"/>
+      <stop stop-color="#52A9D4" offset="38.44%"/>
+      <stop stop-color="#41A0CF" offset="43.59%"/>
+      <stop stop-color="#369BCD" offset="49.11%"/>
+      <stop stop-color="#3399CC" offset="55.62%"/>
+      <stop stop-color="#3396C8" offset="60.6%"/>
+      <stop stop-color="#328EBC" offset="65.53%"/>
+      <stop stop-color="#3180A8" offset="70.45%"/>
+      <stop stop-color="#2F6D8C" offset="75.36%"/>
+      <stop stop-color="#2D5468" offset="80.27%"/>
+      <stop stop-color="#2A373D" offset="85.12%"/>
+      <stop stop-color="#292929" offset="87.08%"/>
+    </radialGradient>
+    <radialGradient id="k" cx="-3.29%" cy=".85%" r="74.777%" fx="-3.29%" fy=".85%" gradientTransform="matrix(1 0 0 .99998 0 0)">
+      <stop stop-color="#E6E6E6" offset="0%"/>
+      <stop stop-color="#D6D6D6" offset="10.45%"/>
+      <stop stop-color="#ADADAD" offset="30.74%"/>
+      <stop stop-color="#6C6C6C" offset="58.84%"/>
+      <stop stop-color="#121212" offset="93.35%"/>
+      <stop stop-color="#000000" offset="100%"/>
+    </radialGradient>
+    <linearGradient id="l" x1="-21.978%" x2="128.031%" y1="-37.711%" y2="107.253%">
+      <stop stop-color="#F0F4FF" offset="0%"/>
+      <stop stop-color="#EBEFF9" offset="10.86%"/>
+      <stop stop-color="#DCE0EA" offset="24.75%"/>
+      <stop stop-color="#C4C7CF" offset="40.28%"/>
+      <stop stop-color="#A2A4AB" offset="57.01%"/>
+      <stop stop-color="#76777C" offset="74.69%"/>
+      <stop stop-color="#414243" offset="92.91%"/>
+      <stop stop-color="#2B2B2B" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="m" x1="-40.121%" x2="109.892%" y1="-18.937%" y2="126.024%">
+      <stop stop-color="#F0F4FF" offset="0%"/>
+      <stop stop-color="#EBEFF9" offset="10.86%"/>
+      <stop stop-color="#DCE0EA" offset="24.75%"/>
+      <stop stop-color="#C4C7CF" offset="40.28%"/>
+      <stop stop-color="#A2A4AB" offset="57.01%"/>
+      <stop stop-color="#76777C" offset="74.69%"/>
+      <stop stop-color="#414243" offset="92.91%"/>
+      <stop stop-color="#2B2B2B" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="n" x1="32.513%" x2="110.23%" y1="33.103%" y2="108.198%">
+      <stop stop-color="#C2D7E8" offset="0%"/>
+      <stop stop-color="#BACFE1" offset="13.37%"/>
+      <stop stop-color="#A4BACD" offset="34.25%"/>
+      <stop stop-color="#8098AC" offset="60.01%"/>
+      <stop stop-color="#4E697F" offset="89.4%"/>
+      <stop stop-color="#3A566D" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="o" x1="-7.292%" x2="142.571%" y1="-52.956%" y2="92.155%">
+      <stop stop-color="#F0F4FF" offset="0%"/>
+      <stop stop-color="#E8EBF6" offset="9.73%"/>
+      <stop stop-color="#D1D4DD" offset="25.68%"/>
+      <stop stop-color="#ABAEB5" offset="45.87%"/>
+      <stop stop-color="#78797D" offset="69.51%"/>
+      <stop stop-color="#363637" offset="95.78%"/>
+      <stop stop-color="#2B2B2B" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="p" x1="-.843%" x2="51.835%" y1=".872%" y2="51.773%">
+      <stop stop-color="#D9DEF0" offset="0%"/>
+      <stop stop-color="#D4DAEC" offset="12.29%"/>
+      <stop stop-color="#C7CFE2" offset="26.29%"/>
+      <stop stop-color="#B0BCD1" offset="41.14%"/>
+      <stop stop-color="#90A1B8" offset="56.57%"/>
+      <stop stop-color="#677F99" offset="72.46%"/>
+      <stop stop-color="#355674" offset="88.49%"/>
+      <stop stop-color="#173D5D" offset="97.19%"/>
+    </linearGradient>
+    <linearGradient id="q" x1="-54.731%" x2="95.284%" y1="-3.818%" y2="141.141%">
+      <stop stop-color="#F0F4FF" offset="0%"/>
+      <stop stop-color="#EBEFF9" offset="10.86%"/>
+      <stop stop-color="#DCE0EA" offset="24.75%"/>
+      <stop stop-color="#C4C7CF" offset="40.28%"/>
+      <stop stop-color="#A2A4AB" offset="57.01%"/>
+      <stop stop-color="#76777C" offset="74.69%"/>
+      <stop stop-color="#414243" offset="92.91%"/>
+      <stop stop-color="#2B2B2B" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 11)">
+      <path fill="url(#a)" d="M24.993 0C11.19 0 0 11.19 0 24.993c0 13.803 11.19 24.992 24.993 24.992 13.804 0 24.993-11.19 24.993-24.992C49.986 11.189 38.796 0 24.993 0zm0 48.735c-13.113 0-23.742-10.63-23.742-23.742C1.25 11.88 11.88 1.249 24.993 1.249c13.113 0 23.743 10.63 23.743 23.744 0 13.112-10.63 23.742-23.743 23.742z"/>
+      <path fill="#333333" d="M48.915 24.993c0 13.21-10.711 23.921-23.922 23.921-13.21 0-23.921-10.71-23.921-23.921 0-13.212 10.71-23.922 23.921-23.922 13.21 0 23.922 10.71 23.922 23.922z"/>
+      <path fill="url(#b)" d="M48.736 24.993c0 13.112-10.63 23.742-23.743 23.742-13.113 0-23.742-10.63-23.742-23.742C1.25 11.88 11.88 1.249 24.993 1.249c13.113 0 23.743 10.63 23.743 23.744z"/>
+      <path fill="url(#c)" d="M40.911 24.993c0 8.79-7.127 15.917-15.918 15.917S9.075 33.783 9.075 24.993c0-8.792 7.127-15.918 15.918-15.918S40.911 16.2 40.911 24.993z"/>
+      <polygon fill="#000000" points="25.631 8.644 27.284 4.262 27.284 8.644 28.54 8.644 28.54 2.368 26.653 2.368 24.936 6.862 24.952 6.862 23.236 2.368 21.348 2.368 21.348 8.644 22.604 8.644 22.604 4.262 24.258 8.644"/>
+      <polygon fill="#000000" points="42.866 11.459 40.72 14.587 44.09 12.93 45.004 14.026 39.7 16.689 38.628 15.392 40.684 12.292 40.672 12.276 37.252 13.74 36.168 12.451 39.745 7.715 40.659 8.812 38.419 11.828 41.885 10.282"/>
+      <path fill="#333333" d="M13.877 10.26c-.505-.49-1.285-.639-2.019-.184.14-.363.084-.733.01-.938-.317-.575-.428-.648-.686-.866-.843-.706-1.73-.103-2.363.652l-3.063 3.65 4.815 4.04 3.23-3.849c.738-.88.852-1.751.076-2.505zm-6.229 1.76l1.84-2.192c.214-.254.696-.244 1.005.016.34.286.341.69.113.964l-1.82 2.167-1.138-.955zm5.076.365l-1.918 2.285-1.201-1.01 1.932-2.302c.219-.26.706-.337 1.034-.061.37.311.407.785.153 1.088z"/>
+      <polygon fill="url(#d)" points="25.644 8.402 27.297 4.019 27.297 8.402 28.553 8.402 28.553 2.125 26.666 2.125 24.949 6.619 24.966 6.619 23.249 2.125 21.362 2.125 21.362 8.402 22.618 8.402 22.618 4.019 24.271 8.402"/>
+      <polygon fill="url(#e)" points="42.878 11.038 40.733 14.166 44.103 12.508 45.016 13.605 39.713 16.268 38.641 14.97 40.697 11.871 40.685 11.855 37.264 13.319 36.181 12.03 39.758 7.294 40.672 8.391 38.433 11.406 41.897 9.861"/>
+      <path fill="url(#f)" d="M13.652 10.136c-.504-.49-1.285-.638-2.017-.184.139-.363.082-.733.008-.937-.316-.576-.426-.648-.687-.866-.843-.707-1.728-.104-2.36.652l-3.065 3.65 4.815 4.04 3.23-3.85c.737-.88.852-1.75.076-2.505zm-6.228 1.76l1.84-2.191c.212-.255.694-.244 1.004.015.34.287.342.692.112.964L8.562 12.85l-1.138-.955zm5.076.365l-1.918 2.286-1.203-1.01 1.933-2.304c.219-.26.705-.335 1.034-.06.372.312.408.785.154 1.088z"/>
+      <path fill="url(#g)" d="M9.605 24.993c0-8.5 6.89-15.389 15.388-15.389 8.5 0 15.388 6.89 15.388 15.389 0 8.498-6.888 15.388-15.388 15.388-8.498 0-15.388-6.89-15.388-15.388z"/>
+      <path fill="url(#h)" d="M10.047 24.993c0-8.255 6.692-14.947 14.946-14.947 8.255 0 14.947 6.692 14.947 14.947 0 8.254-6.692 14.946-14.947 14.946-8.254 0-14.946-6.692-14.946-14.946z"/>
+      <path fill="url(#i)" d="M10.024 24.993h14.97v-14.97c-8.269 0-14.97 6.702-14.97 14.97z"/>
+      <path fill="url(#j)" d="M24.993 24.993v14.97c8.268 0 14.97-6.704 14.97-14.97h-14.97z"/>
+      <polygon fill="url(#k)" points="40.086 24.727 25.258 24.727 25.258 9.899 24.728 9.899 24.728 24.727 9.9 24.727 9.9 25.258 24.728 25.258 24.728 40.086 25.258 40.086 25.258 25.258 40.086 25.258"/>
+      <path fill="url(#l)" d="M25.258 10.319c7.897.14 14.269 6.512 14.41 14.408h.265c-.142-8.043-6.632-14.534-14.675-14.674v.266z"/>
+      <path fill="#C2D7E8" d="M10.292 24.725c.14-7.907 6.522-14.288 14.429-14.428v-.266c-8.054.14-14.553 6.64-14.694 14.694h.265z"/>
+      <path fill="url(#m)" d="M24.728 39.666c-7.897-.14-14.269-6.512-14.41-14.408h-.265c.142 8.042 6.632 14.534 14.675 14.674v-.266z"/>
+      <path fill="#12404F" d="M39.668 25.258c-.14 7.896-6.513 14.268-14.41 14.408v.266c8.043-.14 14.534-6.632 14.675-14.674h-.265z"/>
+      <polygon fill="url(#n)" points="24.444 10.031 24.444 24.435 10.04 24.435 10.04 24.72 24.444 24.72 24.728 24.72 24.728 24.435 24.728 10.031"/>
+      <polygon fill="url(#o)" points="24.42 39.793 24.42 25.562 10.159 25.562 10.159 25.281 24.42 25.281 24.7 25.281 24.7 25.562 24.7 39.793"/>
+      <polygon fill="url(#p)" points="25.563 39.793 25.563 25.562 39.793 25.562 39.793 25.281 25.563 25.281 25.283 25.281 25.283 25.562 25.283 39.793"/>
+      <polygon fill="url(#q)" points="25.563 10.158 25.563 24.389 39.793 24.389 39.793 24.669 25.563 24.669 25.283 24.669 25.283 24.389 25.283 10.158"/>
+    </g>
+    <rect width="50" height="72"/>
+  </g>
+</svg>
