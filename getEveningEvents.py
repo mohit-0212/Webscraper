@@ -23,7 +23,8 @@ with io.open(filename, 'w', encoding='utf8') as outfile:
         events['description'].append(
             ele.text.replace("\t", "").replace("\n", ""))
     for ele in Soup.find_all('p', {'class': 'date-time'}):
-        events['date-time'].append(ele.text.replace("\t", "").replace("\n", ""))
+        events['date-time'].append(
+            ele.text.replace("\t", "").replace("\n", ""))
 
     str_ = json.dumps(events, indent=2, sort_keys=False,
                       separators=(',', ': '), ensure_ascii=False)
