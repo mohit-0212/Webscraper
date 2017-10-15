@@ -10,7 +10,7 @@ except NameError:
 site = requests.get('https://developer.apple.com/wwdc/more/')
 data = site.content.decode('utf-8')
 Soup = BS(data, 'lxml')
-path = "Apple WWDC/Data/Special Events/Third Party Events"
+path = "Apple WWDC/Data/Special Events"
 if not os.path.exists(path):
     os.makedirs(path)
 filename = 'Apple WWDC/Data/Special Events/ThirdPartyEvents_data.json'
